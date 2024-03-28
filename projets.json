@@ -1,0 +1,9 @@
+[
+    {"name": "E-commerce", "image": "canapy.png", "link": "AllProjets/canapy/index.php", "description": "Un site E-commerce créé avec un template en from scratch en PHP orienté objet, relié à une base de données afin de gérer les produits et les utilisateurs, et un back office réservé aux administrateurs.", "language": "PHP", "date": "09/2023"},
+
+    {"name": "Tic Tac Toe", "image": "morpionJS.png", "link": "AllProjets/Tp_Morpion/index.html", "description": "Il s'agit du jeu morpion réalisé en autonomie entièrement en JavaScript fonctionnant avec deux joueurs.", "language": "javascript", "date": "07/2023"},
+
+    {"name": "Calculatrice", "image": "calculatrice.png", "link": "AllProjets/calculatrice/calculatrice.html", "description": "Une calculatrice faite en JavaScript de A à Z fonctionnant avec deux nombres, gérant tous les types d'opérations.", "language": "javascript", "date": "06/2023"},
+
+    {"name": "multi site", "image": "multiSite.png", "link": "AllProjets/multisite/index.html", "description": "Tout premier multi-site réalisé, récap de chaque chapitre sur les bases HTML et CSS.", "language": "html/css", "date": "06/2023"}
+] 
